@@ -29,7 +29,7 @@ nav{
 }
 
 .main__block {
-    max-height: 91.6vh;
+    max-height: 100vh;
     overflow: hidden;
     position: relative;
 
